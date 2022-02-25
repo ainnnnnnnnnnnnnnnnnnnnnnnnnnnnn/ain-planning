@@ -4,3 +4,4 @@ Ain Planning
 - Mengetahui tentang PHP
 - Mengetahui tentang Codeignter 
 - Mengetahui tentang Javascript
+- Mempelajari tentang design
