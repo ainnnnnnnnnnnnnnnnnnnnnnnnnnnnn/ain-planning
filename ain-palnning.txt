@@ -1,0 +1,6 @@
+Ain Planning
+- Mengetahui tentang Git & Github
+- Mengetahui tentang HTML
+- Mengetahui tentang PHP
+- Mengetahui tentang Codeignter 
+- Mengetahui tentang Javascript
